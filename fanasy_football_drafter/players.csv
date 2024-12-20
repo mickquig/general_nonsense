@@ -1,0 +1,15 @@
+﻿Name,Position,SeasonProjection,InjuryProb,StdDev
+Joe,QB,400,0.05,5
+John,RB,300,0.25,3
+Kate,RB,250,0.25,3
+Mickey,WR,300,0.1,4
+Jacob,WR,250,0.1,4
+Aubrey,WR,200,0.1,4
+Delaney,RB,200,0.25,3
+Bailey,K,150,0,4
+Owen,DST,150,0,6
+Cathy ,TE,150,0.1,4
+Denise,RB,175,0.25,3
+Mark,WR,175,0.1,4
+Roro,QB,300,0.05,5
+Pawpaw,TE,125,0.1,4
